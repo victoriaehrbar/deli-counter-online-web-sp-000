@@ -11,5 +11,5 @@ end
 end
 
 def take_a_number(katz_deli, name)
-  puts name
+  puts name, index[0]
 end
