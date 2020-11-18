@@ -6,6 +6,8 @@ else
   deli.each.with_index(1) do |names, x|
 line << " #{x}. #{names}"
 end
-puts line 
+puts line
 end
 end
+
+def take_a_number
